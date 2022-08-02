@@ -27,5 +27,5 @@ d = { 'settings': { 'audience': 'Developers',
                 'title': 'mltree',
                 'tst_flags': 'notest',
                 'user': 'joaopcnogueira',
-                'version': '0.0.1'},
-  'syms': {'mltree.train': {'mltree.train.train_tree_models': 'https://joaopcnogueira.github.io/mltree/train.html#train_tree_models'}}}
+                'version': '0.0.2'},
+  'syms': {'mltree\\train': {'mltree\\train.train_tree_models': 'https://joaopcnogueira.github.io/mltree/mltree\\train.html#train_tree_models'}}}
